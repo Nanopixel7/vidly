@@ -96,7 +96,6 @@ This project is part of [Mosh Hamedani's Node.js course](https://codewithmosh.co
 
 ---
 
-
 ## 👤 Author
 
 **Annaguly** — [@Nanopixel7](https://github.com/Nanopixel7)
