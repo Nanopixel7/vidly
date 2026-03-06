@@ -99,3 +99,9 @@ This project is part of [Mosh Hamedani's Node.js course](https://codewithmosh.co
 ## 👤 Author
 
 **Annaguly** — [@Nanopixel7](https://github.com/Nanopixel7)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
