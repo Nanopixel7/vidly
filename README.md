@@ -34,14 +34,19 @@ vidly/
 │   ├── customer.js
 │   ├── genre.js
 │   ├── movie.js
-│   └── rental.js
+│   ├── rental.js
+│   └── user.js
 ├── routes/
+│   ├── auth.js
 │   ├── customers.js
 │   ├── genres.js
 │   ├── home.js
 │   ├── movies.js
-│   └── rentals.js
+│   ├── rentals.js
+│   └── users.js
 ├── middleware/
+│   ├── admin.js
+│   ├── auth.js
 │   └── logger.js
 ├── app.js
 └── package.json
