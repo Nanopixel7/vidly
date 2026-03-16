@@ -11,8 +11,13 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^4.21.2",
+    "bcrypt": "^6.0.0",
+    "config": "^4.4.1",
+    "express": "^5.2.1",
     "joi": "^17.13.3",
+    "joi-password-complexity": "^5.2.0",
+    "jsonwebtoken": "^9.0.3",
+    "lodash": "^4.17.23",
     "mongoose": "^9.2.1"
   }
 }
